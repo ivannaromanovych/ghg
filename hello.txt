@@ -1,1 +1,2 @@
 super calkulator
+new super calkulator
